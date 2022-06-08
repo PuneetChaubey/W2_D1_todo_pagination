@@ -1,0 +1,7 @@
+.todos_div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 250px;
+    margin: auto;
+}

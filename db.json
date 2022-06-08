@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "value": "Locaol-todo 1",
+      "isCompleted": "true"
+    },
+    {
+      "id": 2,
+      "value": "Local-todo 2",
+      "isCompleted": "false"
+    },
+    {
+      "id": 3,
+      "value": "Local-todo 3",
+      "isCompleted": "false"
+    },
+    {
+      "id": 4,
+      "value": "Local-todo 4",
+      "isCompleted": "true"
+    },
+    {
+      "value": "DSA-Unit4",
+      "isCompleted": "true",
+      "id": 5
+    },
+    {
+      "value": "rct-101",
+      "isCompleted": "true",
+      "id": 6
+    },
+    {
+      "value": "CSBT-Unit4",
+      "isCompleted": "true",
+      "id": 7
+    }
+  ]
+}
